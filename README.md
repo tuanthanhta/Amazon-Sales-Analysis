@@ -1,7 +1,8 @@
 # Amazon Sales Analysis
 The dataset is taken from [Amazon Sales report](https://data.world/anilsharma87)  
-I will perform some data cleaning in Python and will then visualize the data in Power BI to make a sales analysis dashboard
+I will perform some data cleaning in Python and will then visualize the data in Power BI to make a sales analysis dashboard  
 Read more about the dataset details in [Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data)
+
 # Insights and Recommendations  
 
 ## **Sales and Orders**  
